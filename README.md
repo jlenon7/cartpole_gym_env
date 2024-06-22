@@ -7,7 +7,7 @@
 <img src="resources/result.gif" width="500px" alt="Result" />
 
 > [!TIP]
-> To train the model faster, comment the `env.render(mode='human')` call in `bin/agent.py` or change the `log_interval` variable as desired.
+> To train the model faster, comment the `env.render(mode='human')` call in `bin/agent.py` or change the `render_interval` variable as desired.
 
 ### Epoch points log tracker
 
