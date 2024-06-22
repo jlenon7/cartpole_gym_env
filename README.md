@@ -32,7 +32,7 @@ Now install all the project dependencies:
 make install-all
 ```
 
-To run the game to be played by a human run (use arrows <, ^, >, v):
+To run the game to be played by a human run (use arrows <, >):
 
 ```shell
 make play
