@@ -16,6 +16,7 @@
 ## TODOs
 
 - [x] Train the agent using Continuous Q-Learning
+- [ ] Train the agent using Deep Q-Learning
 - [ ] Save the model to be reused with a library like [stable-baselines](https://stable-baselines3.readthedocs.io/en/master/)
 
 ## Running

@@ -13,6 +13,7 @@ scipy = "*"
 pygame = "*"
 gym = "==0.25.0"
 numpy = "==1.24.0"
+tensorflow = "*"
 
 [dev-packages]
 
